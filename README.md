@@ -8,7 +8,7 @@
 ## Huynh Ngoc Vu
 - DoB: 1983/05/05
 - Email: vuhn@pascaliaasia.com
-- Hobbies: Fishin
+- Hobbies: Fishing
 
 ## Nobuyuki Ariga
 - DoB: 1997/09/14
