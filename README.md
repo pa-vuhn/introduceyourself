@@ -10,3 +10,8 @@
 - Email: vuhn@pascaliaasia.com
 - Hobbies: Fishing
 
+## Toru Hasegawa
+- DoB: 1994/05/09
+- Email: tooru.hasegawa@g.pascalia.co.jp
+- Hobbies: Mountaineering
+
