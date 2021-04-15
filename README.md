@@ -10,7 +10,7 @@
 - Email: vuhn@pascaliaasia.com
 - Hobbies: Fishing
 
-# Ryo Asaka
-- DoB: September 23, 1994.
-- Email: ryo.asaka@g.pascalia.co.jp
-- Hobbies: Sports
+# Nobuyuki Ariga
+- DoB: September14 , 1997
+- Email: nobuyuki.ariga@g.pascalia.co.jp
+- Hobbies: Cyclingh
