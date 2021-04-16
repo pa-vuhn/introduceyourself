@@ -24,3 +24,8 @@
 - DoB: February 24, 1999
 - Email: quisquam@email.com
 - Hobbies: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+
+# Nobuyuki Ariga
+- DoB: September14 , 1997
+- Email: nobuyuki.ariga@g.pascalia.co.jp
+- Hobbies: Cycling
