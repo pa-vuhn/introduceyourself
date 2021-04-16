@@ -29,3 +29,8 @@
 - DoB: September14 , 1997
 - Email: nobuyuki.ariga@g.pascalia.co.jp
 - Hobbies: Cycling
+
+## Yuki Takatori
+- DoB: May 30, 1997
+- Email: yuki.takatori@g.pascalia.co.jp
+- Hobbies: Tennis
