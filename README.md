@@ -24,3 +24,9 @@
 - DoB: February 24, 1999
 - Email: quisquam@email.com
 - Hobbies: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+
+## Yuki Takatori
+- DoB: May 30, 1997
+- Email: yuki.takatori@g.pascalia.co.jp
+- Hobbies: tennis
+
