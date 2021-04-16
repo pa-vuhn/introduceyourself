@@ -28,5 +28,5 @@
 ## Yuki Takatori
 - DoB: May 30, 1997
 - Email: yuki.takatori@g.pascalia.co.jp
-- Hobbies: tennis
+- Hobbies: Tennis
 
