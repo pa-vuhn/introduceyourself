@@ -34,8 +34,3 @@
 - DoB: May 30, 1997
 - Email: yuki.takatori@g.pascalia.co.jp
 - Hobbies: Tennis
-
-## Takuya Iida
-- DoB: December 30, 2000
-- Email: takuya.iida@tsukuba.pascalia.co.jp
-- Hobbies: My hobby is tennis. I rent a tennis court on holidays and am exercising.
