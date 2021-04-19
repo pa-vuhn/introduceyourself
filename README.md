@@ -35,12 +35,3 @@
 - Email: yuki.takatori@g.pascalia.co.jp
 - Hobbies: Tennis
 
-## Takuya Iida
-- DoB: December 20, 2000
-- Email: takuya.iida@tsukuba.pascalia.co.jp
-- Hobbies: My hobby is tennis. I rent a tennis court on holidays and am exercising.
-
-## Misaki Nakayama
-- DoB: 1999/03/06
-- Email: misaki.nakayama@p.pascalia.co.jp
-- Hobbies:Listening to Music.
