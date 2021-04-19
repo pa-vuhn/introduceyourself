@@ -33,7 +33,7 @@
 ## Yuki Takatori
 - DoB: May 30, 1997
 - Email: yuki.takatori@g.pascalia.co.jp
-- Hobbies: Tennis
+- Hobbies: Tenni
 
 ## Takuya Iida
 - DoB: December 20, 2000
