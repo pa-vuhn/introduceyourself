@@ -29,3 +29,13 @@
 - DoB: December 30, 2000
 - Email: takuya.iida@tsukuba.pascalia.co.jp
 - Hobbies: My hobby is tennis. I rent a tennis court on holidays and am exercising.
+
+# Nobuyuki Ariga
+- DoB: September14 , 1997
+- Email: nobuyuki.ariga@g.pascalia.co.jp
+- Hobbies: Cycling
+
+## Yuki Takatori
+- DoB: May 30, 1997
+- Email: yuki.takatori@g.pascalia.co.jp
+- Hobbies: Tennis
