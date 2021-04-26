@@ -39,6 +39,7 @@
 - DoB: May 30, 1997
 - Email: yuki.takatori@g.pascalia.co.jp
 - Hobbies: Tennis
+
 ## Misaki Nakayama
 - DoB: 1999/03/06
 - Email: misaki.nakayama@g.pascalia.co.jp
