@@ -43,4 +43,10 @@
 ## Misaki Nakayama
 - DoB: 1999/03/06
 - Email: misaki.nakayama@g.pascalia.co.jp
-- Hobbies: Listening music 
+- Hobbies: Listening music
+
+## Ngo Xuan Khiem
+- DoB: January 15, 1999
+- Email: khiemnx@pascaliaasia.com
+- Hobbies: Listening music, playing video games, learning new technology
+ 
