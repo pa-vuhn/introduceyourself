@@ -43,4 +43,10 @@
 ## Misaki Nakayama
 - DoB: 1999/03/06
 - Email: misaki.nakayama@g.pascalia.co.jp
-- Hobbies: Listening music 
+- Hobbies: Listening music
+
+## Duan Pham Khac
+- DoB: July 09, 2000
+- Email: duanpk@pascaliaasia.com
+- Hobbies: movie, video games
+ 
